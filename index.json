@@ -1,0 +1,383 @@
+{
+	"version": 1,
+	"memes": [
+		{
+			"id": "absolute-cinema",
+			"name": "Absolute Cinema",
+			"width": 475,
+			"height": 368,
+			"aspect": "landscape",
+			"colors": 11,
+			"tiles": 174800
+		},
+		{
+			"id": "anime-girl-hiding-from-terminator",
+			"name": "Anime Girl Hiding From Terminator",
+			"width": 401,
+			"height": 437,
+			"aspect": "portrait",
+			"colors": 46,
+			"tiles": 175237
+		},
+		{
+			"id": "buff-doge-vs-cheems",
+			"name": "Buff Doge Vs Cheems",
+			"width": 478,
+			"height": 367,
+			"aspect": "landscape",
+			"colors": 8,
+			"tiles": 175426
+		},
+		{
+			"id": "bugs-bunny-communist",
+			"name": "Bugs Bunny Communist",
+			"width": 533,
+			"height": 329,
+			"aspect": "landscape",
+			"colors": 24,
+			"tiles": 175357
+		},
+		{
+			"id": "charlie-conspiracy-always-sunny-in-philidelphia",
+			"name": "Charlie Conspiracy Always Sunny In Philidelphia",
+			"width": 483,
+			"height": 362,
+			"aspect": "landscape",
+			"colors": 48,
+			"tiles": 174846
+		},
+		{
+			"id": "cheems",
+			"name": "Cheems",
+			"width": 429,
+			"height": 408,
+			"aspect": "landscape",
+			"colors": 15,
+			"tiles": 175032
+		},
+		{
+			"id": "confused-gandalf",
+			"name": "Confused Gandalf",
+			"width": 380,
+			"height": 461,
+			"aspect": "portrait",
+			"colors": 12,
+			"tiles": 175180
+		},
+		{
+			"id": "disaster-girl",
+			"name": "Disaster Girl",
+			"width": 483,
+			"height": 362,
+			"aspect": "landscape",
+			"colors": 48,
+			"tiles": 174846
+		},
+		{
+			"id": "doge",
+			"name": "Doge",
+			"width": 418,
+			"height": 418,
+			"aspect": "square",
+			"colors": 31,
+			"tiles": 174724
+		},
+		{
+			"id": "domino-effect",
+			"name": "Domino Effect",
+			"width": 504,
+			"height": 347,
+			"aspect": "landscape",
+			"colors": 25,
+			"tiles": 174888
+		},
+		{
+			"id": "empire-state-building-climbers",
+			"name": "Empire State Building Climbers",
+			"width": 505,
+			"height": 346,
+			"aspect": "landscape",
+			"colors": 13,
+			"tiles": 174730
+		},
+		{
+			"id": "evil-kermit",
+			"name": "Evil Kermit",
+			"width": 614,
+			"height": 285,
+			"aspect": "landscape",
+			"colors": 18,
+			"tiles": 174990
+		},
+		{
+			"id": "flex-tape",
+			"name": "Flex Tape",
+			"width": 395,
+			"height": 443,
+			"aspect": "portrait",
+			"colors": 48,
+			"tiles": 174985
+		},
+		{
+			"id": "grandma-finds-the-internet",
+			"name": "Grandma Finds The Internet",
+			"width": 483,
+			"height": 362,
+			"aspect": "landscape",
+			"colors": 48,
+			"tiles": 174846
+		},
+		{
+			"id": "grumpy-cat",
+			"name": "Grumpy Cat",
+			"width": 377,
+			"height": 465,
+			"aspect": "portrait",
+			"colors": 48,
+			"tiles": 175305
+		},
+		{
+			"id": "gus-fring-we-are-not-the-same",
+			"name": "Gus Fring We Are Not The Same",
+			"width": 350,
+			"height": 500,
+			"aspect": "portrait",
+			"colors": 27,
+			"tiles": 175000
+		},
+		{
+			"id": "hide-the-pain-harold",
+			"name": "Hide The Pain Harold",
+			"width": 374,
+			"height": 468,
+			"aspect": "portrait",
+			"colors": 20,
+			"tiles": 175032
+		},
+		{
+			"id": "i-m-the-captain-now",
+			"name": "I M The Captain Now",
+			"width": 489,
+			"height": 358,
+			"aspect": "landscape",
+			"colors": 10,
+			"tiles": 175062
+		},
+		{
+			"id": "laughing-leo",
+			"name": "Laughing Leo",
+			"width": 418,
+			"height": 418,
+			"aspect": "square",
+			"colors": 34,
+			"tiles": 174724
+		},
+		{
+			"id": "laughing-lizard",
+			"name": "Laughing Lizard",
+			"width": 513,
+			"height": 341,
+			"aspect": "landscape",
+			"colors": 35,
+			"tiles": 174933
+		},
+		{
+			"id": "leo-strutting",
+			"name": "Leo Strutting",
+			"width": 329,
+			"height": 532,
+			"aspect": "portrait",
+			"colors": 48,
+			"tiles": 175028
+		},
+		{
+			"id": "leonardo-dicaprio-cheers",
+			"name": "Leonardo Dicaprio Cheers",
+			"width": 513,
+			"height": 342,
+			"aspect": "landscape",
+			"colors": 41,
+			"tiles": 175446
+		},
+		{
+			"id": "megamind-peeking",
+			"name": "Megamind Peeking",
+			"width": 418,
+			"height": 418,
+			"aspect": "square",
+			"colors": 13,
+			"tiles": 174724
+		},
+		{
+			"id": "mini-keanu-reeves",
+			"name": "Mini Keanu Reeves",
+			"width": 559,
+			"height": 314,
+			"aspect": "landscape",
+			"colors": 28,
+			"tiles": 175526
+		},
+		{
+			"id": "mocking-spongebob",
+			"name": "Mocking Spongebob",
+			"width": 499,
+			"height": 351,
+			"aspect": "landscape",
+			"colors": 48,
+			"tiles": 175149
+		},
+		{
+			"id": "persian-cat-room-guardian",
+			"name": "Persian Cat Room Guardian",
+			"width": 431,
+			"height": 405,
+			"aspect": "landscape",
+			"colors": 17,
+			"tiles": 174555
+		},
+		{
+			"id": "philosoraptor",
+			"name": "Philosoraptor",
+			"width": 418,
+			"height": 418,
+			"aspect": "square",
+			"colors": 14,
+			"tiles": 174724
+		},
+		{
+			"id": "picard-facepalm",
+			"name": "Picard Facepalm",
+			"width": 445,
+			"height": 393,
+			"aspect": "landscape",
+			"colors": 33,
+			"tiles": 174885
+		},
+		{
+			"id": "roll-safe-think-about-it",
+			"name": "Roll Safe Think About It",
+			"width": 558,
+			"height": 314,
+			"aspect": "landscape",
+			"colors": 36,
+			"tiles": 175212
+		},
+		{
+			"id": "sad-pablo-escobar",
+			"name": "Sad Pablo Escobar",
+			"width": 421,
+			"height": 415,
+			"aspect": "landscape",
+			"colors": 48,
+			"tiles": 174715
+		},
+		{
+			"id": "salt-bae",
+			"name": "Salt Bae",
+			"width": 417,
+			"height": 419,
+			"aspect": "portrait",
+			"colors": 30,
+			"tiles": 174723
+		},
+		{
+			"id": "soldier-protecting-sleeping-child",
+			"name": "Soldier Protecting Sleeping Child",
+			"width": 464,
+			"height": 378,
+			"aspect": "landscape",
+			"colors": 48,
+			"tiles": 175392
+		},
+		{
+			"id": "spiderman-pointing-at-spiderman",
+			"name": "Spiderman Pointing At Spiderman",
+			"width": 558,
+			"height": 314,
+			"aspect": "landscape",
+			"colors": 48,
+			"tiles": 175212
+		},
+		{
+			"id": "squidward-window",
+			"name": "Squidward Window",
+			"width": 500,
+			"height": 351,
+			"aspect": "landscape",
+			"colors": 48,
+			"tiles": 175500
+		},
+		{
+			"id": "star-wars-yoda",
+			"name": "Star Wars Yoda",
+			"width": 390,
+			"height": 449,
+			"aspect": "portrait",
+			"colors": 39,
+			"tiles": 175110
+		},
+		{
+			"id": "stonks",
+			"name": "Stonks",
+			"width": 499,
+			"height": 350,
+			"aspect": "landscape",
+			"colors": 48,
+			"tiles": 174650
+		},
+		{
+			"id": "success-kid",
+			"name": "Success Kid",
+			"width": 427,
+			"height": 411,
+			"aspect": "landscape",
+			"colors": 34,
+			"tiles": 175497
+		},
+		{
+			"id": "this-is-fine",
+			"name": "This Is Fine",
+			"width": 425,
+			"height": 412,
+			"aspect": "landscape",
+			"colors": 44,
+			"tiles": 175100
+		},
+		{
+			"id": "two-guys-on-a-bus",
+			"name": "Two Guys On A Bus",
+			"width": 445,
+			"height": 394,
+			"aspect": "landscape",
+			"colors": 48,
+			"tiles": 175330
+		},
+		{
+			"id": "waiting-skeleton",
+			"name": "Waiting Skeleton",
+			"width": 359,
+			"height": 486,
+			"aspect": "portrait",
+			"colors": 48,
+			"tiles": 174474
+		},
+		{
+			"id": "where-monkey",
+			"name": "Where Monkey",
+			"width": 556,
+			"height": 314,
+			"aspect": "landscape",
+			"colors": 48,
+			"tiles": 174584
+		},
+		{
+			"id": "you-know-i-m-something-of-a-scientist-myself",
+			"name": "You Know I M Something Of A Scientist Myself",
+			"width": 592,
+			"height": 296,
+			"aspect": "landscape",
+			"colors": 48,
+			"tiles": 175232
+		}
+	]
+}
