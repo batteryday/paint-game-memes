@@ -7,8 +7,17 @@
 			"width": 475,
 			"height": 368,
 			"aspect": "landscape",
-			"colors": 11,
+			"colors": 187,
 			"tiles": 174800
+		},
+		{
+			"id": "always-has-been",
+			"name": "Always Has Been",
+			"width": 559,
+			"height": 313,
+			"aspect": "landscape",
+			"colors": 255,
+			"tiles": 174967
 		},
 		{
 			"id": "anime-girl-hiding-from-terminator",
@@ -16,8 +25,26 @@
 			"width": 401,
 			"height": 437,
 			"aspect": "portrait",
-			"colors": 46,
+			"colors": 239,
 			"tiles": 175237
+		},
+		{
+			"id": "bell-curve",
+			"name": "Bell Curve",
+			"width": 488,
+			"height": 359,
+			"aspect": "landscape",
+			"colors": 251,
+			"tiles": 175192
+		},
+		{
+			"id": "bernie-sanders-once-again-asking",
+			"name": "Bernie Sanders Once Again Asking",
+			"width": 486,
+			"height": 360,
+			"aspect": "landscape",
+			"colors": 255,
+			"tiles": 174960
 		},
 		{
 			"id": "buff-doge-vs-cheems",
@@ -25,7 +52,7 @@
 			"width": 478,
 			"height": 367,
 			"aspect": "landscape",
-			"colors": 8,
+			"colors": 252,
 			"tiles": 175426
 		},
 		{
@@ -34,7 +61,7 @@
 			"width": 533,
 			"height": 329,
 			"aspect": "landscape",
-			"colors": 24,
+			"colors": 255,
 			"tiles": 175357
 		},
 		{
@@ -43,7 +70,7 @@
 			"width": 483,
 			"height": 362,
 			"aspect": "landscape",
-			"colors": 48,
+			"colors": 255,
 			"tiles": 174846
 		},
 		{
@@ -52,8 +79,17 @@
 			"width": 429,
 			"height": 408,
 			"aspect": "landscape",
-			"colors": 15,
+			"colors": 254,
 			"tiles": 175032
+		},
+		{
+			"id": "cmon-do-something",
+			"name": "Cmon Do Something",
+			"width": 388,
+			"height": 451,
+			"aspect": "portrait",
+			"colors": 202,
+			"tiles": 174988
 		},
 		{
 			"id": "confused-gandalf",
@@ -61,7 +97,7 @@
 			"width": 380,
 			"height": 461,
 			"aspect": "portrait",
-			"colors": 12,
+			"colors": 254,
 			"tiles": 175180
 		},
 		{
@@ -70,7 +106,7 @@
 			"width": 483,
 			"height": 362,
 			"aspect": "landscape",
-			"colors": 48,
+			"colors": 255,
 			"tiles": 174846
 		},
 		{
@@ -79,7 +115,7 @@
 			"width": 418,
 			"height": 418,
 			"aspect": "square",
-			"colors": 31,
+			"colors": 255,
 			"tiles": 174724
 		},
 		{
@@ -88,7 +124,7 @@
 			"width": 504,
 			"height": 347,
 			"aspect": "landscape",
-			"colors": 25,
+			"colors": 255,
 			"tiles": 174888
 		},
 		{
@@ -97,8 +133,17 @@
 			"width": 505,
 			"height": 346,
 			"aspect": "landscape",
-			"colors": 13,
+			"colors": 255,
 			"tiles": 174730
+		},
+		{
+			"id": "epic-handshake",
+			"name": "Epic Handshake",
+			"width": 494,
+			"height": 354,
+			"aspect": "landscape",
+			"colors": 255,
+			"tiles": 174876
 		},
 		{
 			"id": "evil-kermit",
@@ -106,7 +151,7 @@
 			"width": 614,
 			"height": 285,
 			"aspect": "landscape",
-			"colors": 18,
+			"colors": 255,
 			"tiles": 174990
 		},
 		{
@@ -115,8 +160,17 @@
 			"width": 395,
 			"height": 443,
 			"aspect": "portrait",
-			"colors": 48,
+			"colors": 255,
 			"tiles": 174985
+		},
+		{
+			"id": "gigachad",
+			"name": "Gigachad",
+			"width": 389,
+			"height": 450,
+			"aspect": "portrait",
+			"colors": 131,
+			"tiles": 175050
 		},
 		{
 			"id": "grandma-finds-the-internet",
@@ -124,7 +178,7 @@
 			"width": 483,
 			"height": 362,
 			"aspect": "landscape",
-			"colors": 48,
+			"colors": 254,
 			"tiles": 174846
 		},
 		{
@@ -133,7 +187,7 @@
 			"width": 377,
 			"height": 465,
 			"aspect": "portrait",
-			"colors": 48,
+			"colors": 255,
 			"tiles": 175305
 		},
 		{
@@ -142,7 +196,7 @@
 			"width": 350,
 			"height": 500,
 			"aspect": "portrait",
-			"colors": 27,
+			"colors": 255,
 			"tiles": 175000
 		},
 		{
@@ -151,7 +205,7 @@
 			"width": 374,
 			"height": 468,
 			"aspect": "portrait",
-			"colors": 20,
+			"colors": 254,
 			"tiles": 175032
 		},
 		{
@@ -160,7 +214,16 @@
 			"width": 489,
 			"height": 358,
 			"aspect": "landscape",
-			"colors": 10,
+			"colors": 247,
+			"tiles": 175062
+		},
+		{
+			"id": "imagination-spongebob",
+			"name": "Imagination Spongebob",
+			"width": 489,
+			"height": 358,
+			"aspect": "landscape",
+			"colors": 255,
 			"tiles": 175062
 		},
 		{
@@ -169,7 +232,7 @@
 			"width": 418,
 			"height": 418,
 			"aspect": "square",
-			"colors": 34,
+			"colors": 255,
 			"tiles": 174724
 		},
 		{
@@ -178,7 +241,7 @@
 			"width": 513,
 			"height": 341,
 			"aspect": "landscape",
-			"colors": 35,
+			"colors": 255,
 			"tiles": 174933
 		},
 		{
@@ -187,7 +250,7 @@
 			"width": 329,
 			"height": 532,
 			"aspect": "portrait",
-			"colors": 48,
+			"colors": 255,
 			"tiles": 175028
 		},
 		{
@@ -196,7 +259,7 @@
 			"width": 513,
 			"height": 342,
 			"aspect": "landscape",
-			"colors": 41,
+			"colors": 255,
 			"tiles": 175446
 		},
 		{
@@ -205,7 +268,7 @@
 			"width": 418,
 			"height": 418,
 			"aspect": "square",
-			"colors": 13,
+			"colors": 254,
 			"tiles": 174724
 		},
 		{
@@ -214,7 +277,7 @@
 			"width": 559,
 			"height": 314,
 			"aspect": "landscape",
-			"colors": 28,
+			"colors": 254,
 			"tiles": 175526
 		},
 		{
@@ -223,7 +286,7 @@
 			"width": 499,
 			"height": 351,
 			"aspect": "landscape",
-			"colors": 48,
+			"colors": 255,
 			"tiles": 175149
 		},
 		{
@@ -232,7 +295,7 @@
 			"width": 431,
 			"height": 405,
 			"aspect": "landscape",
-			"colors": 17,
+			"colors": 255,
 			"tiles": 174555
 		},
 		{
@@ -241,7 +304,7 @@
 			"width": 418,
 			"height": 418,
 			"aspect": "square",
-			"colors": 14,
+			"colors": 243,
 			"tiles": 174724
 		},
 		{
@@ -250,7 +313,7 @@
 			"width": 445,
 			"height": 393,
 			"aspect": "landscape",
-			"colors": 33,
+			"colors": 255,
 			"tiles": 174885
 		},
 		{
@@ -259,7 +322,7 @@
 			"width": 558,
 			"height": 314,
 			"aspect": "landscape",
-			"colors": 36,
+			"colors": 254,
 			"tiles": 175212
 		},
 		{
@@ -268,7 +331,7 @@
 			"width": 421,
 			"height": 415,
 			"aspect": "landscape",
-			"colors": 48,
+			"colors": 255,
 			"tiles": 174715
 		},
 		{
@@ -277,7 +340,7 @@
 			"width": 417,
 			"height": 419,
 			"aspect": "portrait",
-			"colors": 30,
+			"colors": 255,
 			"tiles": 174723
 		},
 		{
@@ -286,8 +349,17 @@
 			"width": 464,
 			"height": 378,
 			"aspect": "landscape",
-			"colors": 48,
+			"colors": 249,
 			"tiles": 175392
+		},
+		{
+			"id": "spider-man-triple",
+			"name": "Spider Man Triple",
+			"width": 437,
+			"height": 400,
+			"aspect": "landscape",
+			"colors": 254,
+			"tiles": 174800
 		},
 		{
 			"id": "spiderman-pointing-at-spiderman",
@@ -295,7 +367,7 @@
 			"width": 558,
 			"height": 314,
 			"aspect": "landscape",
-			"colors": 48,
+			"colors": 255,
 			"tiles": 175212
 		},
 		{
@@ -304,7 +376,7 @@
 			"width": 500,
 			"height": 351,
 			"aspect": "landscape",
-			"colors": 48,
+			"colors": 248,
 			"tiles": 175500
 		},
 		{
@@ -313,7 +385,7 @@
 			"width": 390,
 			"height": 449,
 			"aspect": "portrait",
-			"colors": 39,
+			"colors": 255,
 			"tiles": 175110
 		},
 		{
@@ -322,7 +394,7 @@
 			"width": 499,
 			"height": 350,
 			"aspect": "landscape",
-			"colors": 48,
+			"colors": 255,
 			"tiles": 174650
 		},
 		{
@@ -331,8 +403,17 @@
 			"width": 427,
 			"height": 411,
 			"aspect": "landscape",
-			"colors": 34,
+			"colors": 222,
 			"tiles": 175497
+		},
+		{
+			"id": "they-dont-know",
+			"name": "They Dont Know",
+			"width": 417,
+			"height": 419,
+			"aspect": "portrait",
+			"colors": 202,
+			"tiles": 174723
 		},
 		{
 			"id": "this-is-fine",
@@ -340,7 +421,7 @@
 			"width": 425,
 			"height": 412,
 			"aspect": "landscape",
-			"colors": 44,
+			"colors": 255,
 			"tiles": 175100
 		},
 		{
@@ -349,7 +430,7 @@
 			"width": 445,
 			"height": 394,
 			"aspect": "landscape",
-			"colors": 48,
+			"colors": 255,
 			"tiles": 175330
 		},
 		{
@@ -358,7 +439,7 @@
 			"width": 359,
 			"height": 486,
 			"aspect": "portrait",
-			"colors": 48,
+			"colors": 255,
 			"tiles": 174474
 		},
 		{
@@ -367,7 +448,7 @@
 			"width": 556,
 			"height": 314,
 			"aspect": "landscape",
-			"colors": 48,
+			"colors": 255,
 			"tiles": 174584
 		},
 		{
@@ -376,7 +457,7 @@
 			"width": 592,
 			"height": 296,
 			"aspect": "landscape",
-			"colors": 48,
+			"colors": 255,
 			"tiles": 175232
 		}
 	]
